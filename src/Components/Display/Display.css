@@ -1,0 +1,10 @@
+.two_items{
+    display: flex;
+    gap: 0px;
+    margin-left: 100px;
+    width: 78rem;
+   
+}
+.display{
+    font-family: "restora";
+}

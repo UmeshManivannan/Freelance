@@ -1,0 +1,54 @@
+.footer2{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    
+}
+.shop ul{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+.shop ul li{
+    list-style: none;
+    text-align: start;
+    font-size: 12px;
+    font-weight: 400;
+    color:dimgrey;
+
+}
+.shop ul li h2{
+    font-size: 17px;
+    font-weight: 500;
+    color: black;
+}
+.brand{
+    display: flex;
+    padding: 0px 30px;
+    font-family: "amagro";
+}
+.copyright{
+    display: flex;
+    gap: 240px;
+}
+.copyright p{
+    width: 60%;
+    font-size: 10px;
+    text-align: start;
+    padding: 0px 30px;
+}
+.shop-last form{
+    padding-right: 100px;
+    padding-top: 30px;
+    text-align: start;
+}
+.shop-last form input{
+    color: black;
+    outline: none;
+    
+}
+.copyright ul{
+    display: flex;
+    list-style: none;
+    gap: 30px;
+}

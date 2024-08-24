@@ -1,0 +1,74 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+@font-face {
+  font-family: "restora";   /*Can be any text*/
+  src: local("restora"),
+    url("./Fonts//Restora.ttf") format("truetype");
+}
+@font-face {
+  font-family: "messapia";   /*Can be any text*/
+  src: local("messapia"),
+    url("./Fonts//Messapia-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "garogier";   /*Can be any text*/
+  src: local("garogier"),
+    url("./Fonts//Garogier.ttf") format("truetype");
+}
+@font-face {
+  font-family: "coconat";   /*Can be any text*/
+  src: local("coconat"),
+    url("./Fonts//Coconat-Regular.otf") format("truetype");
+}
+@font-face {
+  font-family: "cinzel";   /*Can be any text*/
+  src: local("cinzel"),
+    url("./Fonts//Cinzel-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "caslon";   /*Can be any text*/
+  src: local("caslon"),
+    url("./Fonts//BigCaslonFB-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "amagro";   /*Can be any text*/
+  src: local("amagro"),
+    url("./Fonts//Amagro-bold.ttf") format("truetype");
+}
+

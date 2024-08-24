@@ -1,0 +1,33 @@
+.women-section{
+    position: relative;
+    font-family: "messapia";
+}
+.women-section img{
+    height: 650px;
+    width: 100%;
+}
+.cont{
+    position: absolute;
+    top: 470px;
+    left: 340px;
+    color: white;
+}
+.fashion{
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 15px;
+    
+}
+.category{
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+.cont button{
+    width: 120px;
+    height: 40px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+
+}

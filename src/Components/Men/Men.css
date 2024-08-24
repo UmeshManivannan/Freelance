@@ -1,0 +1,33 @@
+.men-section{
+    position: relative;
+    font-family: "messapia";
+}
+.men-section img{
+    height: 650px;
+    width: 100%;
+}
+.cont{
+    position: absolute;
+    top: 470px;
+    left: 670px;
+    color: white;
+}
+.fashion{
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 15px;
+    
+}
+.category{
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+.cont button{
+    width: 120px;
+    height: 40px;
+    border: none;
+    outline: none;
+    font-size: 10px;
+
+}
